@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gansta0777
-- 👀 I’m interested in hacking 
+- 👋 Hi, I’m @Ants Gansta
+- 👀 I’m interested in crypto currency 
 - 🌱 I’m currently learning py
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me gansta0777@protonmail.com
